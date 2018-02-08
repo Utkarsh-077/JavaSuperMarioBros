@@ -1,0 +1,33 @@
+todos:
+
+- descobrir como faz para jump no goal pole
+
+- goal pole animation - mario descendo pela barra
+
+- animation da barra ate a porta
+
+- mushroom 1up
+
+- sound
+
+- music
+
+- screen level cleared 
+- screen game cleared 
+
+- no mapa world 1-1 especificar os checkpoints
+
+- quando o tempo acaba, o jogo termina ? ou mario perde apenas uma vida
+  e o tempo volta ?
+
+- quando mario esta no modo invincible, o koopas no estado wait
+  eh killed ou vai no modo bowling (hoje esta killed)
+
+- as vezes da para alterar a direcao quando o mario esta
+  transformando (bug) (nao consigo reproduzir)
+
+- goombas se sumir indo para direita, some ou precisa manter vivo ?
+
+- fire no goombas ficou preso no brick quando estava de ponta cabeca (dificil reproduzir)
+
+- faltou mario grande agachar
